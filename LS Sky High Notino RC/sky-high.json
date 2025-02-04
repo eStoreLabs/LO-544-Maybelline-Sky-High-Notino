@@ -1,0 +1,853 @@
+{
+    "keys": [
+        "maybelline/lash-sensational-sky-high-pogrubiajacy-i-wydluzajacy-tusz-do-rzes/"
+    ],
+    "type": 0,
+    "language": "pl-PL",
+    "campaign": "LS Sky-High",
+    "rpc": "MAY07455",
+    "dateOnSaleFrom": null,
+    "owner": "MatusC",
+    "contents": [
+        {
+            "name": "LS Sky-High",
+            "key": "",
+            "isApproved": false,
+            "rich": {
+                "components": [
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV.jpg",
+                                "element": "img",
+                                "alt": "Lash Sensational Sky-High",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "KV-mobile.jpg",
+                                "element": "img",
+                                "alt": "Lash Sensational Sky-High",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Nieziemskie wydłużenie",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "textTransform": "uppercase",
+                                    "fontWeight": "500",
+                                    "marginTop": "0",
+                                    "marginBottom":"35px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "margin": "0"
+                                }
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "",
+                                "element": "h6",
+                                "properties": {
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-02-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "",
+                                "element": "h6",
+                                "properties": {
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-02-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "",
+                                "element": "h6",
+                                "properties": {
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "margin": "0"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-02-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-03.jpg",
+                                "element": "img",
+                                "alt": "Formuła z ekstraktem z bambusa",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-03-mobile.jpg",
+                                "element": "img",
+                                "alt": "Formuła z ekstraktem z bambusa",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-04.jpg",
+                                "element": "img",
+                                "alt": "Odkryj 3 kosmiczne odcienie",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "35px 35px"
+                        },
+                        "breakpoints": {
+                            "xs": false,
+                            "sm": false,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "keyVisual",
+                        "data": [
+                            {
+                                "name": "asset",
+                                "value": "MOD-04-mobile.jpg",
+                                "element": "img",
+                                "alt": "Odkryj 3 kosmiczne odcienie",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "15px 10px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": false,
+                            "lg": false
+                        }
+                    },
+                    {
+                        "name": "imageCarousel",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "slides",
+                                "value": "Carousel-01.jpg",
+                                "element": "img",
+                                "alt": ""
+                            },
+                            {
+                                "name": "slides",
+                                "value": "Carousel-02.jpg",
+                                "element": "img",
+                                "alt": ""
+                            },
+                            {
+                                "name": "slides",
+                                "value": "Carousel-03.jpg",
+                                "element": "img",
+                                "alt": ""
+                            }
+                        ],
+                        "properties": {
+                            "borderStyle": "none",
+                            "borderWidth": "0px",
+                            "borderRadius": "0px",
+                            "backgroundRepeat": "repeat",
+                            "marginTop": "0px",
+                            "marginLeft": "0px",
+                            "marginRight": "0px",
+                            "marginBottom": "0px",
+                            "paddingTop": "0px",
+                            "paddingLeft": "30px",
+                            "paddingRight": "30px",
+                            "paddingBottom": "20px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true,
+                            "xl": true
+                        }
+                    },
+                    {
+                        "name": "videoFullWidth",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "video",
+                                "value": "tvc_mny_maky_skyhigh2025_OMLN4505100BH1100_dev_videolandscape_15.mp4",
+                                "element": "video"
+                            },
+                            {
+                                "name": "poster",
+                                "value": "video.png",
+                                "element": "img"
+                            }
+                        ],
+                        "properties": {
+                            "borderWidth": "0px",
+                            "marginTop": "0px",
+                            "marginLeft": "auto",
+                            "marginRight": "auto",
+                            "marginBottom": "0px",
+                            "paddingTop": "0px",
+                            "paddingLeft": "35px",
+                            "paddingRight": "35px",
+                            "paddingBottom": "20px",
+                            "borderStyle": "none",
+                            "borderRadius": "0px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true,
+                            "xl": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Który Sky High",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "textTransform": "uppercase",
+                                    "fontWeight": "500",
+                                    "marginBottom": "0px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "podkreśli twój kolor oczu?",
+                                "element": "p",
+                                "properties": {
+                                    "margin": "0",
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "textTransform": "uppercase",
+                                    "fontWeight": "500",
+                                    "marginTop": "-20px",
+                                    "textAlign": "center"
+                                }
+                            }
+                        ],
+                        "properties": {},
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsFour",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Green Altitude",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "bold",
+                                    "marginTop": "0",
+                                    "marginBottom": "0px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "Dla zielonych lub brązowych oczu.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "marginBottom": "0px",
+                                    "marginTop": "-15px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-06-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "Plum Twilight",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "bold",
+                                    "marginTop": "0",
+                                    "marginBottom": "0px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "Dla niebieskich oczu.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "marginBottom": "0px",
+                                    "marginTop": "-15px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-06-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "Space Diamond",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "bold",
+                                    "marginTop": "0",
+                                    "marginBottom": "0px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "Dla każdego koloru oczu, nada rzęsom srebrnego połysku.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "marginBottom": "0px",
+                                    "marginTop": "-15px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-06-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnFourTitle",
+                                "value": "Pink Air",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "fontWeight": "bold",
+                                    "marginTop": "0",
+                                    "marginBottom": "0px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnFourText",
+                                "value": "Dla brązowych oczu.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "marginBottom": "0px",
+                                    "marginTop": "-15px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnFourAsset",
+                                "value": "MOD-06-D.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Odkryj wszystkie produkty",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "textTransform": "uppercase",
+                                    "fontWeight": "500",
+                                    "marginBottom": "0px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "z gamy Lash Sensational",
+                                "element": "p",
+                                "properties": {
+                                    "margin": "0",
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "textTransform": "uppercase",
+                                    "fontWeight": "500",
+                                    "marginTop": "-20px",
+                                    "textAlign": "center"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginBottom": "25px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "Lash Sensational Sky High",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "bold",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "20px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "Nieziemskie wydłużenie i objętość.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "marginTop": "-20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-07-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "Lash Sensational Firework",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "bold",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "20px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "Efekt 360°, wystrzałowa objętość i rozdzielenie rzęs.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "marginTop": "-20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-07-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "Lash Sensational",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "bold",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "20px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "Rzęsy jak wachlarz.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "marginTop": "-20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-07-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "textComponent",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "dopełnij swój make-up",
+                                "element": "h2",
+                                "properties": {
+                                    "fontSize": "30px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "textTransform": "uppercase",
+                                    "fontWeight": "500",
+                                    "marginBottom": "0px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "",
+                                "element": "p",
+                                "properties": {
+                                    "margin": "0"
+                                }
+                            }
+                        ],
+                        "properties": {
+                            "marginBottom": "35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    },
+                    {
+                        "name": "columnsThree",
+                        "variant": "v1",
+                        "data": [
+                            {
+                                "name": "columnOneTitle",
+                                "value": "INSTANT ERASER",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "bold",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "20px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneText",
+                                "value": "Multifunkcyjny korektor z aplikatorem w formie gąbeczki konturuje, koryguje i kryje niedoskonałości, zmniejsza widoczność cieni pod oczami oraz nawilża skórę aż do 12 godzin (test instrumentalny).",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "marginTop": "-20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnOneAsset",
+                                "value": "MOD-08-A.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnTwoTitle",
+                                "value": "Super Stay Lumi Matte",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "bold",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "20px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoText",
+                                "value": "Podkład do twarzy nadający efekt satynowego matu do 30h.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "marginTop": "-20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnTwoAsset",
+                                "value": "MOD-08-B.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            },
+                            {
+                                "name": "columnThreeTitle",
+                                "value": "VINYL INK",
+                                "element": "h6",
+                                "properties": {
+                                    "fontSize": "20px",
+                                    "fontFamily": "Roboto",
+                                    "fontWeight": "bold",
+                                    "color": "#111111",
+                                    "marginBottom": "0",
+                                    "marginTop": "20px",
+                                    "textTransform": "uppercase",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeText",
+                                "value": "Płynna szminka oferuje długotrwały połysk. Intensywny kolor utrzymuje się aż do 16h (test konsumencki (samoocena)), nie rozmazuje się i nie ściera.",
+                                "element": "p",
+                                "properties": {
+                                    "fontSize": "16px",
+                                    "fontFamily": "Roboto",
+                                    "color": "#111111",
+                                    "marginTop": "-20px",
+                                    "textAlign": "center"
+                                }
+                            },
+                            {
+                                "name": "columnThreeAsset",
+                                "value": "MOD-08-C.jpg",
+                                "element": "img",
+                                "alt": "",
+                                "properties": {}
+                            }
+                        ],
+                        "properties": {
+                            "padding": "0 35px"
+                        },
+                        "breakpoints": {
+                            "xs": true,
+                            "sm": true,
+                            "md": true,
+                            "lg": true
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

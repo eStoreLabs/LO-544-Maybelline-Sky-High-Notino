@@ -614,7 +614,7 @@
                             },
                             {
                                 "name": "columnTwoText",
-                                "value": "Efekt 360°, wystrzałowa objętość i rozdzielenie rzęs.",
+                                "value": "Efekt 360°, wystrzałowa objętość i\u00a0rozdzielenie rzęs.",
                                 "element": "p",
                                 "properties": {
                                     "fontSize": "16px",
@@ -733,7 +733,7 @@
                             },
                             {
                                 "name": "columnOneText",
-                                "value": "Multifunkcyjny korektor z aplikatorem w formie gąbeczki konturuje, koryguje i kryje niedoskonałości, zmniejsza widoczność cieni pod oczami oraz nawilża skórę aż do 12 godzin (test instrumentalny).",
+                                "value": "Multifunkcyjny korektor z aplikatorem w formie gąbeczki konturuje, koryguje i\u00a0kryje niedoskonałości, zmniejsza widoczność cieni pod oczami oraz nawilża skórę aż do 12 godzin (test instrumentalny).",
                                 "element": "p",
                                 "properties": {
                                     "fontSize": "16px",

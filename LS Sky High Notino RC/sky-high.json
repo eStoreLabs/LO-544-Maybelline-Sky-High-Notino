@@ -71,7 +71,7 @@
                                     "textTransform": "uppercase",
                                     "fontWeight": "500",
                                     "marginTop": "0",
-                                    "marginBottom":"35px",
+                                    "marginBottom": "35px",
                                     "textAlign": "center"
                                 }
                             },
@@ -306,39 +306,22 @@
                         }
                     },
                     {
-                        "name": "videoFullWidth",
-                        "variant": "v1",
+                        "name": "embeddedVideo",
                         "data": [
                             {
-                                "name": "video",
-                                "value": "tvc_mny_maky_skyhigh2025_OMLN4505100BH1100_dev_videolandscape_15.mp4",
-                                "element": "video"
-                            },
-                            {
-                                "name": "poster",
-                                "value": "video.png",
-                                "element": "img"
+                                "name": "embeddedVideoId",
+                                "value": "https://www.youtube.com/watch?v=MR5GK3xI6z0&list=TLGGWYIoKRHL6GswNDAyMjAyNQ&ab_channel=maybellinenewyork",
+                                "element": "iframe"
                             }
                         ],
                         "properties": {
-                            "borderWidth": "0px",
-                            "marginTop": "0px",
-                            "marginLeft": "auto",
-                            "marginRight": "auto",
-                            "marginBottom": "0px",
-                            "paddingTop": "0px",
-                            "paddingLeft": "35px",
-                            "paddingRight": "35px",
-                            "paddingBottom": "20px",
-                            "borderStyle": "none",
-                            "borderRadius": "0px"
+                            "padding": "35px 35px"
                         },
                         "breakpoints": {
                             "xs": true,
                             "sm": true,
                             "md": true,
-                            "lg": true,
-                            "xl": true
+                            "lg": true
                         }
                     },
                     {

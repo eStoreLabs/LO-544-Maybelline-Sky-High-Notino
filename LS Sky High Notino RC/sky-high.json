@@ -310,7 +310,7 @@
                         "data": [
                             {
                                 "name": "embeddedVideoId",
-                                "value": "https://www.youtube.com/watch?v=MR5GK3xI6z0&list=TLGGWYIoKRHL6GswNDAyMjAyNQ&ab_channel=maybellinenewyork",
+                                "value": "https://www.youtube.com/watch?v=MR5GK3xI6z0&list=TLGGWYIoKRHL6GsxMTAzMjAyNQ&t=1s&ab_channel=maybellinenewyork",
                                 "element": "iframe"
                             }
                         ],
